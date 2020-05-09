@@ -21,3 +21,8 @@ build/
 
 # tests
 tests/
+
+venv/
+notebook/
+__pycache__/
+.vscode/
